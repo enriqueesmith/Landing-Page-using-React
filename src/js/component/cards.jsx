@@ -1,7 +1,15 @@
 import React from "react";
+import { Card } from "./card.jsx";
 
 export const Cards = () => {
 	return (
+		<div className="card-group">
+			<Card />
+			<Card />
+			<Card />
+			<Card />
+		</div>
+		/*
 		<div className="row text-center">
 			<div className="col-lg-3 col-md-6 mb-4">
 				<div className="card h-100">
@@ -89,6 +97,6 @@ export const Cards = () => {
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> */
 	);
 };
