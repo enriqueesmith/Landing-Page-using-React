@@ -3,7 +3,7 @@
 A landing page built using HTML, CSS, Bootstrap, JavaScript, Webpack, and ReactJS. 
 The navigation bar at the top and the buttons throughout the landing page do not have any functionality.
 
-See the Live Demo here: https://github.com/enriqueesmith/Landing-Page-using-React.github.io .
+See the Live Demo here: https://enriqueesmith.github.io/Landing-Page-using-React.github.io/.
 
 
 
