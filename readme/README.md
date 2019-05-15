@@ -1,3 +1,12 @@
+# Landing Page using React
+
+A landing page built using HTML, CSS, Bootstrap, JavaScript, Webpack, and ReactJS. 
+The navigation bar at the top and the buttons throughout the landing page do not have any functionality.
+
+See the Live Demo here: https://github.com/enriqueesmith/Landing-Page-using-React.github.io .
+
+
+
 # Hello World with React and Cloud 9
 
 Requirements: Make sure you are using node version 8
